@@ -8,12 +8,12 @@ public class Flowers {
 		System.out.println("Class Flowers");
 	}
 	
-	public void cat()
+	public void rose()
 	{
 		System.out.println("Rose");
 	}
 
-	public void dog()
+	public void jasmine()
 	{
 		System.out.println("Jasmine");
 	}
