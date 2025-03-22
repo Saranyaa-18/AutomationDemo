@@ -15,8 +15,12 @@ public class Vehicles {
 
 	public void auto()
 	{
-		System.out.println("Auto - 5");
+		System.out.println("Auto");
 	}
 	
+	public void lorry()
+	{
+		System.out.println("lorry");	
+	}
 	
 }
