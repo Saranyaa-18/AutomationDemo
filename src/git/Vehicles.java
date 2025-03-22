@@ -20,7 +20,7 @@ public class Vehicles {
 	
 	public void lorry()
 	{
-		System.out.println("lorry");	
+		System.out.println("lorry1");	
 	}
 	
 }
