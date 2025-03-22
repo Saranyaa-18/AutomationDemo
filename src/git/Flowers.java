@@ -13,6 +13,11 @@ public class Flowers {
 		System.out.println("Rose");
 	}
 
+	public void lotus()
+	{
+		System.out.println("Lotus");
+	}
+	
 	public void jasmine()
 	{
 		System.out.println("Jasmine");
